@@ -1,6 +1,6 @@
 
 // Replace 'yourusername' and 'repo' with the user's GitHub repo
-const repoUser = "yourusername";
+const repoUser = "cuc-adventist";
 const repoName = "conference-session-site";
 
 fetch(`https://api.github.com/repos/${repoUser}/${repoName}/contents/photos`)
